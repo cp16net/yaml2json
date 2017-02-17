@@ -1,5 +1,5 @@
 # yaml2json
-simple tool to convert yaml to json
+tool to convert yaml to json on command line
 
 ## Install
 python setup.py install
