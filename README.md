@@ -7,4 +7,5 @@ python setup.py install
 ## Usage
 
 cat test.yml | yaml2json
+
 cat test.yml | yaml2json | jq
